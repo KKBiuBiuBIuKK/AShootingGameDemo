@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "雪地背景",
+    "texture": "5098cef8-d102-4798-b55c-45ac77a001bf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      800,
+      498
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      800,
+      498
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

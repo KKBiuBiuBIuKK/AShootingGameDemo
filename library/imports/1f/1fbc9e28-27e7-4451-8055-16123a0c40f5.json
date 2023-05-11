@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "分数框",
+    "texture": "dfaae1ea-cd8e-40af-933b-988ec2eb6ceb",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      650,
+      550
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      650,
+      552
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

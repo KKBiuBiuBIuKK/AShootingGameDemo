@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "炮塔",
+    "texture": "262a8319-46d1-4a99-9408-cebd50b15e11",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      92,
+      64
+    ],
+    "offset": [
+      -1.5,
+      0
+    ],
+    "originalSize": [
+      95,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

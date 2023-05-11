@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "爆炸效果",
+    "texture": "46784430-384a-462b-8775-63bf99c3f0a0",
+    "atlas": "",
+    "rect": [
+      15,
+      14,
+      141,
+      157
+    ],
+    "offset": [
+      4,
+      -7
+    ],
+    "originalSize": [
+      163,
+      171
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
